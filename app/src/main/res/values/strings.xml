@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sample WebView App</string>
+    <string name="download_message">Downloading…</string>
+</resources>
